@@ -1,0 +1,5 @@
+clonestagram is instagram's clone.(rails + ios)
+
+setting
+client => server url
+server => carrierwave.rb
